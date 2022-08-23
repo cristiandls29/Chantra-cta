@@ -1,0 +1,36 @@
+Uri: https://carbonic.finance/
+File Name: C:\Downloaded Web Sites\carbonic.finance\index.htm
+Content Type: text/html
+
+Uri: https://carbonic.finance/logo.png
+File Name: C:\Downloaded Web Sites\carbonic.finance\logo.png
+Content Type: image/png
+
+Uri: https://carbonic.finance/style.css
+File Name: C:\Downloaded Web Sites\carbonic.finance\style.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap
+File Name: C:\Downloaded Web Sites\carbonic.finance\css2.css
+Content Type: text/css
+
+Uri: https://twitter.com/carbonicfinance
+File Name: C:\Downloaded Web Sites\carbonic.finance\carbonicfinance.html
+Content Type: text/html
+
+Uri: https://docs.carbonic.finance/
+File Name: C:\Downloaded Web Sites\carbonic.finance\index-1.htm
+Content Type: text/html
+
+Uri: https://app.carbonic.finance/
+File Name: C:\Downloaded Web Sites\carbonic.finance\index-2.htm
+Content Type: text/html
+
+Uri: https://carbonic.finance/graphic.png
+File Name: C:\Downloaded Web Sites\carbonic.finance\graphic.png
+Content Type: image/png
+
+Uri: https://discord.com/invite/5BABM5pCJ8
+File Name: C:\Downloaded Web Sites\carbonic.finance\invite\5BABM5pCJ8.html
+Content Type: text/html
+
